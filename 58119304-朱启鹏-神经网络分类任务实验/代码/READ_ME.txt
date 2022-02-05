@@ -1,0 +1,2 @@
+main.py为最终测试文件 默认载入模型为GooLeNet
+train.py为训练文件 默认训练模型为GooLeNet
